@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "daniilgorod-jsoncrackco-37"
+          project: "daniilgorod-jsoncrackco-81"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
           root: "out"
           
