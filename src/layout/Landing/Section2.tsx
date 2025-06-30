@@ -114,7 +114,7 @@ export const Section2 = () => {
           </List>
           <Button
             component="a"
-            href="/editor"
+            href="/editor.html"
             color="#202842"
             size="lg"
             radius="md"

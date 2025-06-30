@@ -168,7 +168,7 @@ export const Navbar = () => {
             radius="md"
             component="a"
             color="#202842"
-            href="/editor"
+            href="/editor.html"
             visibleFrom="sm"
             size="md"
           >

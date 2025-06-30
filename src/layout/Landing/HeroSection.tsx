@@ -133,7 +133,7 @@ export const HeroSection = ({ stars = 0 }) => {
             <Button
               component="a"
               color="#202842"
-              href="/editor"
+              href="/editor.html"
               size="md"
               radius="md"
               rightSection={<FaChevronRight />}
@@ -147,7 +147,7 @@ export const HeroSection = ({ stars = 0 }) => {
             <Button
               component="a"
               color="#202842"
-              href="/editor"
+              href="/editor.html"
               size="xl"
               radius="md"
               rightSection={<FaChevronRight />}

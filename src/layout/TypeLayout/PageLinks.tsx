@@ -40,7 +40,7 @@ export const PageLinks = () => {
         <Button
           component={Link}
           prefetch={false}
-          href="/editor"
+          href="/editor.html"
           radius="md"
           size="sm"
           color="dark.5"
